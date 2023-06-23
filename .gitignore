@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-/.metadata/
-=======
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -13,4 +10,3 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
->>>>>>> 381fc4e93a45acbcf31dabfe76b4b8b07ce9e407
