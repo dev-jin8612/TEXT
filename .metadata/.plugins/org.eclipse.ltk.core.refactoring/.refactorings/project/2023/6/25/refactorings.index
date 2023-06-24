@@ -6,3 +6,6 @@
 1687518520200	Rename resource 'index.jsp'
 1687569094009	Move 'detailPage.jsp' to 'jsp'
 1687569097434	Move 'listPage.jsp' to 'jsp'
+1687576418081	Move 'jsp' to 'trade'
+1687576420631	Move 'js' to 'trade'
+1687576423632	Move 'css' to 'trade'

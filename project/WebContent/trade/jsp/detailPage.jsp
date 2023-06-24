@@ -6,9 +6,10 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 
-<link rel="stylesheet" href="./css/cssSet1.css" />
-<link rel="stylesheet" href="./css/cssSet2.css" />
-<link rel="stylesheet" href="./css/cssSet3.css" />
+<link rel="stylesheet" href="../css/cssSet1.css" />
+<link rel="stylesheet" href="../css/cssSet2.css" />
+<link rel="stylesheet" href="../css/cssSet3.css" />
+<link rel="stylesheet" href="../css/custom.css" />
 </head>
 
 <body>

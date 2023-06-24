@@ -34114,6 +34114,12 @@ html.wadiz-app .web-header {
     position: static;
   }
 }
+@media screen and (max-width: 1097px) {
+	/* 내가 추가 한거 */
+  .wadiz-logo{
+  	display:none;
+  } 
+}
 .web-header .wadiz-logo > a {
   display: block;
   padding: 11px 0 13px;
