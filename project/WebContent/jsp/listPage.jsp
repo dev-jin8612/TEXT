@@ -6,15 +6,16 @@
 <meta charset="EUC-KR">
 <title>Insert title here</title>
 
-<link rel="stylesheet" href="./css/cssSet1.css" />
-<link rel="stylesheet" href="./css/cssSet2.css" />
-<link rel="stylesheet" href="./css/cssSet3.css" />
+<link rel="stylesheet" href="../css/cssSet1.css" />
+<link rel="stylesheet" href="../css/cssSet2.css" />
+<link rel="stylesheet" href="../css/cssSet3.css" />
 </head>
 
   <!-- 와디즈는 사이사이 js가 들어가는데 따라서 해야하나?
 아니면 js파일을 만들어서 할까? -->
 
   <body>
+  <button><a href="./detailPage.jsp">임시로 만든 detailPage로 넘어가는 버튼</a></button>
   <div id="page-container">
       <div id="wz-header">
         <div class="web-header">
